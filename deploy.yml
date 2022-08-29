@@ -1,0 +1,5 @@
+deploy:
+    bucket: blog-1234567890
+    region: ap-shanghai
+    secretId: AKIDIgxxxxxxxxxxxxxxxxxxxx0SepjX
+    secretKey: qXPCbxxxxxxxxxxxxxxxxxxxxsJZfdR
