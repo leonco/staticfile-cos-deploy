@@ -1,0 +1,11 @@
+# https://taskfile.dev
+
+version: '3'
+
+env:
+  CGO_ENABLED: '0'
+
+tasks:
+  build:
+    cmds:
+      - go build -o ./bin/ ./cmd/deploy
